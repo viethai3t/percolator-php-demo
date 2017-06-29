@@ -3,7 +3,7 @@
 composer install
 ## step2: commandで動きを確認する。
 cd percolator-php-demo
-1. インデックスと用意したデータを作成するために、以下のコマンドを叩く<br>
+1. インデックスと用意したデータを作成するために、以下のコマンドを叩く（demoデータはソースコードに書いてある）<br>
 php index.php Percolator
 
 2. percolatorでの検索の動きを確認する <br>
